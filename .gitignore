@@ -1,0 +1,26 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Configuration files with sensitive data
+src/main/resources/application.properties
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+target/
+node_modules/
+.next/
+dist/
+
+# Log files
+*.log
