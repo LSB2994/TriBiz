@@ -3,9 +3,6 @@
 .env.local
 .env.production
 
-# Configuration files with sensitive data
-src/main/resources/application.properties
-
 # IDE files
 .idea/
 .vscode/
